@@ -1,5 +1,7 @@
 npm-debug.log
 yarn.lock
+package-lock.json
+.vscode
 
 /build
 /node_modules
